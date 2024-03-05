@@ -12,5 +12,5 @@ post_build:
 
 artifacts:
   files:
-    - target/.jar
+    - target/SchoolApplication.class.jar
   discard-paths: yes
